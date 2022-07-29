@@ -1,2 +1,5 @@
 # Trash
-The best shell ever.
+
+`sh`, `bash` or `zsh`? NO, WE USE `trash`.
+
+`trash` , the best shell ever.
